@@ -56,7 +56,7 @@
 				<configuration>
 					<testFailureIgnore>true</testFailureIgnore>
 					<includes>
-						<include>**/testng.xml</include>
+						<include>testng.xml</include>
 					</includes>
 				</configuration>
 			</plugin>
